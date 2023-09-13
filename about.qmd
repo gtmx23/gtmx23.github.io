@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+I am Gretel :) I created this page for DSCI 521, stay tuned for more changes and updates as I build this!
